@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="file:/D:/UNACH/9_Semestre/SERVICIOS%20WEB/UNIDADIII/PRACTICA%205/Practica5_A170070/celular.xsl"?>
+<celulares>
+  <celular>
+    <nombre>Redmi 9T</nombre>
+    <precio>$5,299</precio>
+    <capacidad>128GB</capacidad>
+    <camarafrontal>8 megapixeles</camarafrontal>
+   <camaratrasera>48 + 8 + 2 + 2 megapixeles</camaratrasera>
+   <procesador>Qualcomm Snapdragon 662 Octa Core)</procesador>
+   <sistemaoperativo>Android 10. Android 10</sistemaoperativo>
+   <conexiones>USB, Wi Fi, Bluetooth V 5.0</conexiones>
+  </celular>
+   <celular>
+    <nombre>Samsung Galaxy A32</nombre>
+    <precio>$5,819</precio>
+    <capacidad>128GB</capacidad>
+    <camarafrontal>8 megapixeles</camarafrontal>
+   <camaratrasera>48 + 8 + 2 + 2 megapixeles</camaratrasera>
+   <procesador>Qualcomm Snapdragon</procesador>
+   <sistemaoperativo>Android 10. Android 10</sistemaoperativo>
+   <conexiones>USB, Wi Fi, Bluetooth V 5.0</conexiones>
+  </celular>
+   <celular>
+    <nombre>Iphone 13 Pro Max</nombre>
+    <precio>$35,299</precio>
+    <capacidad>256GB</capacidad>
+    <camarafrontal>15MP</camarafrontal>
+   <camaratrasera>25MP + 15MP + 5MP</camaratrasera>
+   <procesador>Octa-core</procesador>
+   <sistemaoperativo>IOS 15</sistemaoperativo>
+   <conexiones>Wi Fi</conexiones>
+  </celular>
+   <celular>
+    <nombre>Motorola G10</nombre>
+    <precio>$3,949</precio>
+    <capacidad>128GB</capacidad>
+    <camarafrontal>8 MP</camarafrontal>
+   <camaratrasera>48+8+2+2 MP</camaratrasera>
+   <procesador>Octa-core 1.8 GHz</procesador>
+   <sistemaoperativo>Android 11</sistemaoperativo>
+   <conexiones>USB, Wi Fi, Bluetooth V 5.0</conexiones>
+  </celular>
+   <celular>
+    <nombre>Redmi Redmi Note 8 Pro</nombre>
+    <precio>$5,299</precio>
+    <capacidad>128GB</capacidad>
+    <camarafrontal>8 megapixeles</camarafrontal>
+   <camaratrasera>48 + 8 + 2 + 2 megapixeles</camaratrasera>
+   <procesador>Qualcomm Snapdragon 662 Octa Core</procesador>
+   <sistemaoperativo>Android 11</sistemaoperativo>
+   <conexiones>USB, Wi Fi, Bluetooth</conexiones>
+  </celular>
+</celulares>
